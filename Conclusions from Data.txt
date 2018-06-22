@@ -1,0 +1,5 @@
+1. According to this data, the schools with less students performed better in both math and reading.
+
+2. For the most part, schools that had a lower budget per student did better in math and reading than the schools that spent more.
+
+3. On average Charter Schools performed better in math and reading than did Distric Schools.
